@@ -65,7 +65,7 @@ a:hover {
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
     margin: 5px;
-    text-shadow: 2px 2px black;
+    text-shadow: 1.5px 1.5px 3px black;
 }
 
 #img01 {
